@@ -2,7 +2,7 @@
 
 A web application where faculty members can post, view, update and manage research opportunities in one place. It has a REST API backend, a MySQL database and a simple frontend.
 
-**GitHub Repository:** git@github.com:VoidSardar/research-opportunity-portal.git
+**GitHub Repository:** https://github.com/VoidSardar/research-opportunity-portal.git
 
 **Author:** Abubakar Liaqat | Course: CN | Assignment 1
 
@@ -36,7 +36,7 @@ research-opportunity-portal/
 ### 1. Clone the repository
 
 ```
-git clone git@github.com:VoidSardar/research-opportunity-portal.git
+git clone https://github.com/VoidSardar/research-opportunity-portal.git
 cd research-opportunity-portal
 ```
 
