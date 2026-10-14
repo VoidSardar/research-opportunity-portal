@@ -4,7 +4,7 @@ A web application where faculty members can post, view, update and manage resear
 
 **GitHub Repository:** https://github.com/zaid1-ui/research-opportunity-portal
 
-**Author:** Your Name | Course: CN | Assignment 1
+**Author:** Abubakar Liaqat | Course: CN | Assignment 1
 
 ## Tech Stack
 
