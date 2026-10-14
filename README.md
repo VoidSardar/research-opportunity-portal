@@ -75,6 +75,16 @@ DB_PASSWORD=your_password_here
 DB_NAME=research_portal
 ```
 
+### Easiest setup (recommended)
+
+After installing the requirements (step 3), run this once from the `backend` folder:
+
+```
+python setup_db.py
+```
+
+It asks for your MySQL password, creates the `research_portal` database and `opportunities` table, and writes `backend/.env` for you. Then go to step 4. You can skip step 2 and the manual `.env` step.
+
 ### 4. Start the backend
 
 From the `backend` folder, with the virtual environment active:
